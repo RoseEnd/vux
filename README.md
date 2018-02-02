@@ -3,7 +3,7 @@
     <img src="https://i.loli.net/2017/11/20/5a12187ebf2e0.png" width="175">
   </a>
 </p>
-<p align="center">Be Cool with Vue@^2.3.0 and WeUI.</p>
+<p align="center">Be Cool with Vue@^2.3.0 and WeUI.Ro By RoseEnd</p>
 
 <p align="center">
   <a href="https://vux.li/demos/v2?x-page=github">
